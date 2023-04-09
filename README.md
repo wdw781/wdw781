@@ -5,7 +5,7 @@
 
 - 💻 My Main Language **C#, Js, Py**
 
-- 🏫 I’m currently learning **About Me Website**
+- 🏫 I’m currently learning **minecraft plugins**
 
 - ✉️ My Discord **!fakus wdw#5486**
 
